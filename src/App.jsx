@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import CadastroUsuario from './componentes/cadastroUsuario';
+import CadastroUsuario from './componentes/CadastroUsuario';
 import ListaUsuarios from './componentes/ListaUsuarios';
 import './styles/global.css'; // Importação confirmada
 
